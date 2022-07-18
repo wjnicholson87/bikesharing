@@ -1,4 +1,4 @@
-# bikesharing
+# BikeShare
 
 ## Overview of the statistical analysis:
 The purpose of the analysis is to work with data visualization software, Tableau, to dissect bike-sharing data from New Your City in order to present a business proposal for a new bike-sharing company.
